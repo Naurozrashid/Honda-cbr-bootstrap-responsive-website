@@ -36,3 +36,14 @@ body{
 .padding-40{
     padding-top: 40px;
 }
+#Contacts {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    text-align: center;
+    color: gray;
+    
+}
+.i-tag{
+    
+    padding-left: 70px;
+}
